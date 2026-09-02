@@ -1,2 +1,2 @@
 # FATEC
-Projeto Angular
+- Projeto Angular
